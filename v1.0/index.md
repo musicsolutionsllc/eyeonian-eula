@@ -1,5 +1,11 @@
 ---
+title: EyeOnian™ End User License Agreement & Terms of Service v1.0
 ---
+
+<!-- pinned-header:start -->
+*EyeOnian™ End User License Agreement & Terms of Service — version 1.0, effective 2026-07-26. This is a pinned copy; see
+the [current version](https://musicsolutionsllc.github.io/eyeonian-eula/) or the [version archive](../archive/).*
+<!-- pinned-header:end -->
 
 Last updated: July 22, 2026  
 Version 1.0
