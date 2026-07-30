@@ -1,7 +1,7 @@
 ---
 ---
 
-Last updated: July 22, 2026  
+Last updated: July 30, 2026  
 Version 1.0
 
 **Please read this agreement carefully.** By downloading, installing, accessing, or using EyeOnian™ (the "Software"), or by tapping "I Agree," you agree to be bound by these terms. If you do not agree, do not install, access, or use the Software.
@@ -76,4 +76,4 @@ We may modify this agreement from time to time. We will indicate material change
 
 Music Solutions LLC
 
-Questions about this agreement: info@eyeonian.com
+Questions about this agreement: eula@eyeonian.com
